@@ -2,6 +2,9 @@
   "name": "resolucao-desafio-m03",
   "version": "1.0.0",
   "description": "",
+  "engines": {
+    "node": "7.24.2"
+  },
   "main": "index.js",
   "scripts": {
     "dev": "nodemon ./src/index.js"
